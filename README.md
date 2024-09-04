@@ -47,6 +47,8 @@ data_collection_challenge
 
   Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 
+# 
+
   Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 
   Create a Beautiful Soup object and use it to scrape the data in the HTML table. Note that this can also be achieved by using the Pandas read_html function. However, use Beautiful Soup here to continue sharpening your web scraping skills.
@@ -76,6 +78,8 @@ data_collection_challenge
   How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 
   What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+
+# 
 
   --> Find the average minimum daily temperature for all of the months.
 
