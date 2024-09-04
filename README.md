@@ -45,6 +45,8 @@ data_collection_challenge
 
 # Part 2: Scrape and Analyze Mars Weather Data
 
+# 
+
   Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 
 # 
@@ -71,6 +73,8 @@ data_collection_challenge
   
   Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
 
+# 
+
   Analyze your dataset by using Pandas functions to answer the following questions:
 
   How many months exist on Mars?
@@ -78,8 +82,6 @@ data_collection_challenge
   How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 
   What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
-
-# 
 
   --> Find the average minimum daily temperature for all of the months.
 
